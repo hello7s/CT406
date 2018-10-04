@@ -1,0 +1,10 @@
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch05\ViewEngine\bin\Debug\netcoreapp2.0\Ch05.ViewEngine.deps.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch05\ViewEngine\bin\Debug\netcoreapp2.0\Ch05.ViewEngine.runtimeconfig.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch05\ViewEngine\bin\Debug\netcoreapp2.0\Ch05.ViewEngine.runtimeconfig.dev.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch05\ViewEngine\bin\Debug\netcoreapp2.0\Ch05.ViewEngine.dll
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch05\ViewEngine\bin\Debug\netcoreapp2.0\Ch05.ViewEngine.pdb
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch05\ViewEngine\obj\Debug\netcoreapp2.0\Ch05.ViewEngine.csproj.CoreCompileInputs.cache
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch05\ViewEngine\obj\Debug\netcoreapp2.0\Ch05.ViewEngine.AssemblyInfoInputs.cache
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch05\ViewEngine\obj\Debug\netcoreapp2.0\Ch05.ViewEngine.AssemblyInfo.cs
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch05\ViewEngine\obj\Debug\netcoreapp2.0\Ch05.ViewEngine.dll
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch05\ViewEngine\obj\Debug\netcoreapp2.0\Ch05.ViewEngine.pdb

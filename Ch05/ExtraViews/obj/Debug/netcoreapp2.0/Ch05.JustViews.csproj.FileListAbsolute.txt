@@ -1,0 +1,10 @@
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch05\ExtraViews\bin\Debug\netcoreapp2.0\Ch05.JustViews.deps.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch05\ExtraViews\bin\Debug\netcoreapp2.0\Ch05.JustViews.runtimeconfig.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch05\ExtraViews\bin\Debug\netcoreapp2.0\Ch05.JustViews.runtimeconfig.dev.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch05\ExtraViews\bin\Debug\netcoreapp2.0\Ch05.JustViews.dll
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch05\ExtraViews\bin\Debug\netcoreapp2.0\Ch05.JustViews.pdb
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch05\ExtraViews\obj\Debug\netcoreapp2.0\Ch05.JustViews.csproj.CoreCompileInputs.cache
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch05\ExtraViews\obj\Debug\netcoreapp2.0\Ch05.JustViews.AssemblyInfoInputs.cache
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch05\ExtraViews\obj\Debug\netcoreapp2.0\Ch05.JustViews.AssemblyInfo.cs
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch05\ExtraViews\obj\Debug\netcoreapp2.0\Ch05.JustViews.dll
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch05\ExtraViews\obj\Debug\netcoreapp2.0\Ch05.JustViews.pdb
