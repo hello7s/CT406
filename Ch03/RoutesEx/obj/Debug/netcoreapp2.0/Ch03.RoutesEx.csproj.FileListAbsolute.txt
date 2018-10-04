@@ -1,0 +1,11 @@
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch03\RoutesEx\bin\Debug\netcoreapp2.0\Ch03.RoutesEx.deps.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch03\RoutesEx\bin\Debug\netcoreapp2.0\Ch03.RoutesEx.runtimeconfig.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch03\RoutesEx\bin\Debug\netcoreapp2.0\Ch03.RoutesEx.runtimeconfig.dev.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch03\RoutesEx\bin\Debug\netcoreapp2.0\Ch03.RoutesEx.dll
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch03\RoutesEx\bin\Debug\netcoreapp2.0\Ch03.RoutesEx.pdb
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch03\RoutesEx\obj\Debug\netcoreapp2.0\Ch03.RoutesEx.csprojAssemblyReference.cache
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch03\RoutesEx\obj\Debug\netcoreapp2.0\Ch03.RoutesEx.csproj.CoreCompileInputs.cache
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch03\RoutesEx\obj\Debug\netcoreapp2.0\Ch03.RoutesEx.AssemblyInfoInputs.cache
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch03\RoutesEx\obj\Debug\netcoreapp2.0\Ch03.RoutesEx.AssemblyInfo.cs
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch03\RoutesEx\obj\Debug\netcoreapp2.0\Ch03.RoutesEx.dll
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch03\RoutesEx\obj\Debug\netcoreapp2.0\Ch03.RoutesEx.pdb
