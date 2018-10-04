@@ -1,0 +1,11 @@
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch06\BootstrapTagHelpers\bin\Debug\netcoreapp2.0\Ch06.BootstrapTagHelpers.deps.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch06\BootstrapTagHelpers\bin\Debug\netcoreapp2.0\Ch06.BootstrapTagHelpers.runtimeconfig.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch06\BootstrapTagHelpers\bin\Debug\netcoreapp2.0\Ch06.BootstrapTagHelpers.runtimeconfig.dev.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch06\BootstrapTagHelpers\bin\Debug\netcoreapp2.0\Ch06.BootstrapTagHelpers.dll
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch06\BootstrapTagHelpers\bin\Debug\netcoreapp2.0\Ch06.BootstrapTagHelpers.pdb
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch06\BootstrapTagHelpers\obj\Debug\netcoreapp2.0\Ch06.BootstrapTagHelpers.csprojAssemblyReference.cache
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch06\BootstrapTagHelpers\obj\Debug\netcoreapp2.0\Ch06.BootstrapTagHelpers.csproj.CoreCompileInputs.cache
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch06\BootstrapTagHelpers\obj\Debug\netcoreapp2.0\Ch06.BootstrapTagHelpers.AssemblyInfoInputs.cache
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch06\BootstrapTagHelpers\obj\Debug\netcoreapp2.0\Ch06.BootstrapTagHelpers.AssemblyInfo.cs
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch06\BootstrapTagHelpers\obj\Debug\netcoreapp2.0\Ch06.BootstrapTagHelpers.dll
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch06\BootstrapTagHelpers\obj\Debug\netcoreapp2.0\Ch06.BootstrapTagHelpers.pdb
