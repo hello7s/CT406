@@ -1,0 +1,10 @@
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\src\ch04\AttrRouting\bin\Debug\netcoreapp2.0\Ch04.AttrRouting.deps.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\src\ch04\AttrRouting\bin\Debug\netcoreapp2.0\Ch04.AttrRouting.runtimeconfig.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\src\ch04\AttrRouting\bin\Debug\netcoreapp2.0\Ch04.AttrRouting.runtimeconfig.dev.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\src\ch04\AttrRouting\bin\Debug\netcoreapp2.0\Ch04.AttrRouting.dll
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\src\ch04\AttrRouting\bin\Debug\netcoreapp2.0\Ch04.AttrRouting.pdb
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\src\ch04\AttrRouting\obj\Debug\netcoreapp2.0\Ch04.AttrRouting.csproj.CoreCompileInputs.cache
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\src\ch04\AttrRouting\obj\Debug\netcoreapp2.0\Ch04.AttrRouting.AssemblyInfoInputs.cache
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\src\ch04\AttrRouting\obj\Debug\netcoreapp2.0\Ch04.AttrRouting.AssemblyInfo.cs
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\src\ch04\AttrRouting\obj\Debug\netcoreapp2.0\Ch04.AttrRouting.dll
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\src\ch04\AttrRouting\obj\Debug\netcoreapp2.0\Ch04.AttrRouting.pdb

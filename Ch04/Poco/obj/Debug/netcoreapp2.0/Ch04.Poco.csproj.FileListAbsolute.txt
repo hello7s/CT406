@@ -1,0 +1,11 @@
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Poco\bin\Debug\netcoreapp2.0\Ch04.Poco.deps.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Poco\bin\Debug\netcoreapp2.0\Ch04.Poco.runtimeconfig.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Poco\bin\Debug\netcoreapp2.0\Ch04.Poco.runtimeconfig.dev.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Poco\bin\Debug\netcoreapp2.0\Ch04.Poco.dll
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Poco\bin\Debug\netcoreapp2.0\Ch04.Poco.pdb
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Poco\obj\Debug\netcoreapp2.0\Ch04.Poco.csprojAssemblyReference.cache
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Poco\obj\Debug\netcoreapp2.0\Ch04.Poco.csproj.CoreCompileInputs.cache
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Poco\obj\Debug\netcoreapp2.0\Ch04.Poco.AssemblyInfoInputs.cache
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Poco\obj\Debug\netcoreapp2.0\Ch04.Poco.AssemblyInfo.cs
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Poco\obj\Debug\netcoreapp2.0\Ch04.Poco.dll
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Poco\obj\Debug\netcoreapp2.0\Ch04.Poco.pdb

@@ -1,0 +1,11 @@
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Simple\bin\Debug\netcoreapp2.0\Ch04.Simple.deps.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Simple\bin\Debug\netcoreapp2.0\Ch04.Simple.runtimeconfig.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Simple\bin\Debug\netcoreapp2.0\Ch04.Simple.runtimeconfig.dev.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Simple\bin\Debug\netcoreapp2.0\Ch04.Simple.dll
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Simple\bin\Debug\netcoreapp2.0\Ch04.Simple.pdb
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Simple\obj\Debug\netcoreapp2.0\Ch04.Simple.csprojAssemblyReference.cache
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Simple\obj\Debug\netcoreapp2.0\Ch04.Simple.csproj.CoreCompileInputs.cache
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Simple\obj\Debug\netcoreapp2.0\Ch04.Simple.AssemblyInfoInputs.cache
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Simple\obj\Debug\netcoreapp2.0\Ch04.Simple.AssemblyInfo.cs
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Simple\obj\Debug\netcoreapp2.0\Ch04.Simple.dll
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch04\Simple\obj\Debug\netcoreapp2.0\Ch04.Simple.pdb
