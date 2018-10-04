@@ -1,0 +1,10 @@
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch06\TagHelpers\bin\Debug\netcoreapp2.0\Ch06.TagHelpers.deps.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch06\TagHelpers\bin\Debug\netcoreapp2.0\Ch06.TagHelpers.runtimeconfig.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch06\TagHelpers\bin\Debug\netcoreapp2.0\Ch06.TagHelpers.runtimeconfig.dev.json
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch06\TagHelpers\bin\Debug\netcoreapp2.0\Ch06.TagHelpers.dll
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch06\TagHelpers\bin\Debug\netcoreapp2.0\Ch06.TagHelpers.pdb
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch06\TagHelpers\obj\Debug\netcoreapp2.0\Ch06.TagHelpers.csproj.CoreCompileInputs.cache
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch06\TagHelpers\obj\Debug\netcoreapp2.0\Ch06.TagHelpers.AssemblyInfoInputs.cache
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch06\TagHelpers\obj\Debug\netcoreapp2.0\Ch06.TagHelpers.AssemblyInfo.cs
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch06\TagHelpers\obj\Debug\netcoreapp2.0\Ch06.TagHelpers.dll
+C:\Users\strug\OneDrive\Documents\GitHub\netcore\ProgCore\Src\Ch06\TagHelpers\obj\Debug\netcoreapp2.0\Ch06.TagHelpers.pdb
